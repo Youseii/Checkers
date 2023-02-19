@@ -1,13 +1,13 @@
 ## 📄 Python Jeu de Dames / Checkers 
-School Project | Python Jeu de Dame / Checkers 
+School Project | Python Jeu de Dames / Checkers 
 
 **Projet Individuel -- EPSI school**
 
 ## ✏️ Consigne pour le projet :
 
 Réaliser un Jeu de Dame avec quelques modifications sur les règles officielles :
-  * Les pions ne peuvent qu'avancer en avant
-  * Les Dames ne peuvent jouer qu'un seul tour
+  * Les pions ne peuvent que avancer en avant sauf les Dames
+  * Les Dames ne peuvent jouer qu'un seul coup par tour
   * Au bout de 1000 tours par joueurs, Match nul
   * Si un des 2 joueurs ne peut déplacer de pions alors la partie se finit 
 
