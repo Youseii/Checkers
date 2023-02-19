@@ -24,7 +24,7 @@ Réaliser un Jeu de Dame avec quelques modifications sur les règles officielles
 
 
 
-### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English Translation:
+### 🗣️󠁧󠁢󠁥󠁮󠁧󠁿 English Translation:
   
 ## ✏️ Project Guidelines:
 
