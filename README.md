@@ -14,10 +14,11 @@ Réaliser un Jeu de Dame avec quelques modifications sur les règles officielles
 ### Langages et Technologies utilisées :
 
 * Mon propre talent en Python
+* Mon fidèle ami Sublime Text
 
 ### 👨‍💻 Code sur GitHub
 
-  * Code Python du jeu (Dames.py)
+  * Code Python du jeu --> Dames.py
   * Les commentaires sont en Français mais il y a beaucoup de ligne de code
   
 
@@ -26,17 +27,18 @@ Réaliser un Jeu de Dame avec quelques modifications sur les règles officielles
   
 ## ✏️ Project Guidelines:
 
-Make the Checkers game with some modification on the official rules:
+Make the Checkers game with some modifications on the official rules:
   * Pawns can only advance, never go backward besides checkers who can advance and go backward
   * Checkers can play one move per turn
   * After 1000 turns from each players, it's a Draw
-  * If one of the 2 players cant move his pawns so the game is finished 
+  * If one of the 2 players can't move his pawns so the game is finished 
 
 ### Languages and Technologies used :
 
 * My own talent with Python
+* My fellow Sublime Text
 
 ### 👨‍💻 Code on GitHub
 
-  * Python Code  of the jeu (Dames.py)
-  * All the commentary are in French and there is a lot of rows in the script
+  * Python Code of the game --> Dames.py
+  * All the commentaries are in French and there is a lot of rows in the script (Good Luck)
