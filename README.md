@@ -21,7 +21,7 @@ Réaliser un Jeu de Dame avec quelques modifications sur les règles officielles
   * Les commentaires sont en Français mais il y a beaucoup de ligne de code
   
 
-###English Translation:
+### English Translation:
   
 ## ✏️ Project Guidelines:
 
